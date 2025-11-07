@@ -4,7 +4,7 @@ package nums;
 import java.sql.*;
 
 public class DBConnection {
-    private static final String URL = "jdbc:mysql://localhost:3306/number_checker_db";
+    private static final String URL = "jdbc:mysql://localhost:3306/numsense_db";
     private static final String USER = "root";
     private static final String PASS = "273010";
 
